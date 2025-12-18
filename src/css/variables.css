@@ -1,0 +1,25 @@
+:root {
+  /* Colors */
+  --color-gold: #D4AF37;
+  --color-gold-light: #F2D267;
+  --color-black: #1A1A1A;
+  --color-white: #FFFFFF;
+  --color-off-white: #F9F9F9;
+  --color-beige: #E8E6D9;
+  --color-text: #2C2C2C;
+  --color-text-light: #666666;
+
+  /* Typography */
+  --font-heading: 'Playfair Display', serif;
+  --font-body: 'Montserrat', sans-serif;
+
+  /* Spacing */
+  --spacing-sm: 1rem;
+  --spacing-md: 2rem;
+  --spacing-lg: 4rem;
+  --spacing-xl: 8rem;
+
+  /* Transitions */
+  --transition-fast: 0.3s ease;
+  --transition-slow: 0.8s ease-out;
+}
